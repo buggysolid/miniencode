@@ -19,5 +19,5 @@ chmod +x install.sh
 
 ### Docs
 
-install.sh no-args
+install.sh no-args  
 encode.sh file-input number-of-threads
