@@ -20,7 +20,12 @@ chmod +x install.sh
 ### Docs
 
 install.sh no-args  
-encode.sh file-input number-of-threads
+
+encode.sh file-input   
+
+Or you can specify the encoder preset you want to use.  
+
+encode.sh file-input veryfast  
 
 ### How did you come up with the values you use?
 
