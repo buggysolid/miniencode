@@ -30,7 +30,9 @@ Papers and resources I read.
 
 Section IV of https://pure.tue.nl/ws/portalfiles/portal/3855057/900594821850225.pdf  
 
-Section 4 https://projet.liris.cnrs.fr/imagine/pub/proceedings/ICIP-2011/papers/1569406845.pdf  
+Section 4 of https://projet.liris.cnrs.fr/imagine/pub/proceedings/ICIP-2011/papers/1569406845.pdf  
+
+Section 4 of https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.670.6710&rep=rep1&type=pdf  
 
 https://obsproject.com/wiki/General-Performance-and-Encoding-Issues  
 
