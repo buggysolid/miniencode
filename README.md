@@ -8,6 +8,7 @@ Encode mkv videos in 1280x720 (720p) x265 using ffmpeg.
 
 ```
 chmod +x install.sh
+chmod +x encode.sh
 ./install.sh
 ```
 
